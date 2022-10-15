@@ -1,0 +1,17 @@
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\bin\Debug\net6.0-windows\notepad_simple_app.exe
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\bin\Debug\net6.0-windows\notepad_simple_app.deps.json
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\bin\Debug\net6.0-windows\notepad_simple_app.runtimeconfig.json
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\bin\Debug\net6.0-windows\notepad_simple_app.dll
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\bin\Debug\net6.0-windows\notepad_simple_app.pdb
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.csproj.AssemblyReference.cache
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.Form1.resources
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.csproj.GenerateResource.cache
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.AssemblyInfoInputs.cache
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.AssemblyInfo.cs
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.csproj.CoreCompileInputs.cache
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.dll
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\refint\notepad_simple_app.dll
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.pdb
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\notepad_simple_app.genruntimeconfig.cache
+E:\My Learnings\BCS Level II\Semester 02\Rapid Application Development - CSC2213\Practices\notepad_simple_app\notepad_simple_app\obj\Debug\net6.0-windows\ref\notepad_simple_app.dll
